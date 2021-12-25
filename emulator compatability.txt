@@ -1,6 +1,10 @@
+Problems I've noticed with various emulators
+
 SpecEmu has a hickcup every few seconds
 Spud has occasional crackle
 Spectaculator is good
 ZX Spin 0.7 is good
 Es.pectrum is emulator enhanced
 InkSpector is good
+
+I recommend using InkSpector to listen to AY files
